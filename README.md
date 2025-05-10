@@ -8,3 +8,4 @@ I have given 4 code in this repository<br>
 **4)truckdetectesp.ino** ==> this code will be dumped in the Esp32 controller that i am using in this project to control the traffic light via serial communication . if you are using it in raspberry pi you dont need this part just configure the gpio pins in truck.py and run it.<br>
 # pictorial representation of the project
 ![Image](https://github.com/user-attachments/assets/47eda52b-1a2e-4d90-bdd9-1fff4c6fb1bc)
+# Real timemodel setup
